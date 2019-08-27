@@ -1,4 +1,5 @@
 # shuri
+<img src="images/shuri.png" width="200" align="right">
 Stock Market Prediction using LSTM.
 
 ## Team Members
