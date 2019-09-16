@@ -1,5 +1,5 @@
 # shuri
-<img src="images/shuri.png" width="500" align="right">
+<img src="images/shuri.png" width="400" align="right">
 
 Analyzing and predicting the stock prices of Google using Artificial Recurrent Neural Network (RNN) architechture. This is a Regression problem.
 
